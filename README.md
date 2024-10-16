@@ -40,6 +40,7 @@ a passionate computer science undergraduate with a strong background in front-en
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376331/kubernetes.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452214/go.svg" />
+<img align="left" alt="Deno" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/378789/deno.svg" />
 <br />
 
 ### Stats
