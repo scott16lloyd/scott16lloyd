@@ -31,11 +31,15 @@ a passionate computer science undergraduate with a strong background in front-en
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452192/docker.svg" />
 <br />
 
 ### 🌱 Currently Learning
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/448266/aws.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/376331/kubernetes.svg" />
+<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452214/go.svg" />
 <br />
 
 ### Stats
